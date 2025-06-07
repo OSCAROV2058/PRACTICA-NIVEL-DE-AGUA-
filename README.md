@@ -179,11 +179,11 @@ lcd.clear();
 
 2. Instalar la libreria de LiquidCrystal I2C como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-NIVEL-DE-AGUA-/blob/main/image%20(9).png?raw=true)
 
 3. Hacer la conexion del sensor ultrasonico, leds, resistencias y LCD con la ESP32 como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-NIVEL-DE-AGUA-/blob/main/image%20(20).png?raw=true)
 
 ## Instrucciónes de operación
 
@@ -197,15 +197,15 @@ lcd.clear();
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en las siguentes imagenes.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-NIVEL-DE-AGUA-/blob/main/image%20(21).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-NIVEL-DE-AGUA-/blob/main/image%20(22).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-NIVEL-DE-AGUA-/blob/main/image%20(23).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-NIVEL-DE-AGUA-/blob/main/image%20(24).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-NIVEL-DE-AGUA-/blob/main/image%20(25).png?raw=true)
 
 ## Creditos
 
